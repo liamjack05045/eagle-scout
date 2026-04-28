@@ -1,0 +1,8 @@
+flask
+pywebview
+openai
+pdf2image
+pytesseract
+python-pptx
+pillow
+pydantic
